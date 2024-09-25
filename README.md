@@ -1,3 +1,8 @@
+# Podcast Manager
+
+**Descrição**  
+Podcast Manager é uma aplicação inspirada no estilo Netflix, onde os usuários podem centralizar e organizar episódios de podcasts, separados por categorias, tornando a experiência de encontrar e acessar podcasts mais fácil e intuitiva. O aplicativo suporta principalmente podcasts feitos em vídeo.
+
 ---
 
 ## Tecnologias Utilizadas
